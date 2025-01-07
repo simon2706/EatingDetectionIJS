@@ -17,4 +17,4 @@ This repository contains description about EatingDetectionIJS dataset and link w
 The dataset can be downloaded at the following [link](https://drive.google.com/drive/folders/1OTo-N3UHRZIcyXUpbKCLS_6LLdVUB0Hv?usp=sharing).
 
 # Contact
-For any information about the **EatingDetectionIJS dataset** feel free to contact us simon.stankoski@ijs.si.
+For any information about the **EatingDetectionIJS dataset** feel free to contact us simon.stankoski@emteqlabs.com
